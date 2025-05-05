@@ -1,2 +1,0 @@
-# Stratedge
-code
